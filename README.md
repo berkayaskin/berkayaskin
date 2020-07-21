@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 I am a Frontend Developer who integrates the data analytics platform called Qlik Sense into cutting edge web technologies to create fancy dashboards and custom solutions for the customers from Istanbul. I'm always open to colloaborate with people to share knowledge and to help to grow the developer community.
 
+<!--
 ![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkayaskin&show_icons=true)
+-->
