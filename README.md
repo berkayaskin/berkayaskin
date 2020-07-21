@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **berkayaskin/berkayaskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there👋
+
+[![GitHub followers](https://img.shields.io/github/followers/berkayaskin?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/berkayaskin)
+[![Twitter Follow](https://img.shields.io/twitter/follow/berkayaskin?label=Follow%20at%20Twitter&style=for-the-badge)](https://twitter.com/berkayaskin)
+[![GitHub Sponsor](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge)](https://github.com/sponsors/berkayaskin)
+
+I am a Frontend Developer who integrates the data analytics platform called Qlik Sense into cutting edge web technologies to create fancy dashboards and custom solutions for the customers from Istanbul. I'm always open to colloaborate with people to share knowledge and to help to grow the developer community.
+
+![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkayaskin&show_icons=true)
